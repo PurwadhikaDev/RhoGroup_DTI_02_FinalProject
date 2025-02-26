@@ -65,3 +65,6 @@ By leveraging machine learning for churn prediction, businesses can:
 - **Make informed, data-driven decisions** to reduce customer attrition.
 - **Implement targeted retention strategies** to maximize customer lifetime value.
 - **Optimize costs and improve profitability**, leading to sustainable business growth.
+  ___
+
+  Tableau link : https://public.tableau.com/app/profile/huwaida.nur.asysyifa.mufarrida/viz/customerprofile_17405067669130/EcommerceCustomerChurnAnalysis?publish=yes
