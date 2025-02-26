@@ -1,5 +1,4 @@
-# ![churn](https://github.com/user-attachments/assets/a1340ad7-cac5-475f-9ecc-0be4da5a7319) Customer Churn Prediction 
-
+# Customer Churn Prediction 
 
 ## Introduction
 Customer retention is a critical challenge for e-commerce businesses. Losing customers (*churn*) not only decreases revenue but also raises marketing expenses for acquiring new users. Since **customer retention cost (CRC)** is typically lower than **customer acquisition cost (CAC)**, implementing an effective churn mitigation strategy is essential for long-term business growth.
