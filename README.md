@@ -1,4 +1,4 @@
-# Customer Churn Prediction ![churn](https://github.com/user-attachments/assets/a1340ad7-cac5-475f-9ecc-0be4da5a7319)
+# ![churn](https://github.com/user-attachments/assets/a1340ad7-cac5-475f-9ecc-0be4da5a7319) Customer Churn Prediction 
 
 
 ## Introduction
